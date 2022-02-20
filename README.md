@@ -1,1 +1,2 @@
 # Bank_Term_Deposit_Prediction
+The dataset contained 16 features and 1 target variable for binary classification which determines if client will subscribe deposit or not.I have done feature extraction and got 7 important features, then applied various classification algorithms on the data which made it clear that Adaboost Classifier Model performed excellent with high accuracy(85%) compared to other algorithms.
